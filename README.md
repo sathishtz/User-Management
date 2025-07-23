@@ -20,26 +20,6 @@ Customer:
 3. Postgresql - 15.0
 4. Template - 'Corona' by Bootstrap Dash.
 
-# Features
-1. Crispy Forms
-2. sqlite
-3. Profile Image
-4. Media File Configuration
-5. Login
-6. Register
-7. Forms
-8. Abstract User
-9. Auto Compression for > 1 MB photo.
-10. Navbar
-11. Sidebar
-12. Footer
-13. Dark Theme
-14. Material Icons
-15. Profile Avatars
-16. Bootstrap
-17. Customer Counter
-18. Alert Messages
-
 # Django Installation Steps :-
 1. Install Python 3.10
 2. Install Django version 4.1.6
